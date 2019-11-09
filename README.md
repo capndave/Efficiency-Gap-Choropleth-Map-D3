@@ -2,8 +2,7 @@
 
 Calculate and display partisan bias in a delegation's districts with efficiency gap scores.
 
-Swap-out and configure election results and district boundaries then automatically generate a series of infographics for each delegation in the election.
-
+From Efficiency Gap Reports code, @ https://github.com/cicero-data/efficiency-gap-reports/blob/master/README.md
 
 ## Install
 
